@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 @Builder
 public class Details {
 
-    private String nombreCampo;
     private String tipoError;
     private String descripcion;
 
